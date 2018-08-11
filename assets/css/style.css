@@ -1,0 +1,28 @@
+body {
+    background-image: url(../../assets/images/concrete-texture.png);
+}
+
+.top-font {
+    color: #4aaaa5;
+}
+
+.bottom {
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #ddd;
+}
+
+.line-height {
+    line-height: 3;
+}
+
+footer {
+    border-top-style: solid;
+    border-top-width: 10px;
+    border-top-color: #4aaaa5;
+}
+
+h4 {
+    position: relative;
+    top: -60px;
+}
